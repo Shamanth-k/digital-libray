@@ -1,0 +1,14 @@
+.header-content{
+    min-height: 75vh;
+    background: linear-gradient(rgba(0, 109, 170, 0.3), rgba(0, 109, 170, 0.5)), url("../../images/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg") center/cover no-repeat;
+    flex-direction: column;
+}
+.header-title{
+    font-size: 4.2rem;
+}
+.header-text{
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    max-width: 770px;
+}
